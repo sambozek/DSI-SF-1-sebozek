@@ -11,13 +11,13 @@ creator:
 
 ## Introduction
 
-In this lab where going to practice writing functions using if/else and loops. 
+In this lab where going to practice writing functions simple functions. 
 
 #### Requirements
 
-- Write a function that takes a single movie and returns True if its imdb score is above 5.5
-- Write a function that returns a sublist of movies with an imdb score above 5.5. (HINT: you may want to but do not have to    reuse the function from question 0.)
-- Write a function that takes a category name and returns just those movies under that category.
+- Write a function with one argument. Find the area of a square. 
+- Write a function with two arguments. Find the area of a rectangle. 
+- Write a function with three arguments. Find the surface area of cuboid.
 
 **Bonus:**
 - Write a function that takes a category and computes the average imdb score (HINT: reuse the function from question 2.)
