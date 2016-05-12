@@ -50,7 +50,7 @@ Your job is to:
  **Pro Tip:** You can find a good example report [here](https://www.dlsweb.rmit.edu.au/lsu/content/2_assessmenttasks/assess_tuts/reports_ll/report.pdf).
 
 - ***Non-statistical Bonuses:***
- - Generate your data manually using the Python package [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#).
+ - Generate your data manually using the Python package [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#). OR scrapy with xpath!
  - Create a blog post of at least 500 words (and 1-2 graphics!) describing your data, analysis, and approach. Link to it in your Jupyter notebook.
 
 ---
